@@ -1,4 +1,4 @@
-{
+[
   {
     "game": 10309078131,
     "keyless": true,
@@ -9,4 +9,4 @@
     "keyless": false,
     "lua": "https://gist.githubusercontent.com/igorgames-htm/2667106716e2c75dd9f4544c1c7796fd/raw/b2b381151d11db0389bbd270bda31dfb15665886/rivals.luau"
   }
-}
+]
