@@ -2,7 +2,7 @@ return function(screengui)
 loadingscreen_1 = Instance.new("Frame",screengui)
 loadingscreen_1.Name = game:GetService("HttpService"):GenerateGUID(false)
 loadingscreen_1.Position = UDim2.fromScale(0.5,0.5)
-loadingscreen_1.Size = UDim2.fromScale(0.4,0.4)
+loadingscreen_1.Size = UDim2.fromScale(0.3,0.3)
 loadingscreen_1.AnchorPoint = Vector2.new(0.5, 0.5)
 loadingscreen_1.BackgroundColor3 = Color3.new()
 loadingscreen_1.BackgroundTransparency = 0.1
