@@ -13,5 +13,10 @@
     "game": 210851291,
     "keyless": true,
     "lua": "https://gist.githubusercontent.com/igorgames-htm/d7ee22f88f8569a7ae1be010beefc249/raw/644bbfd5c23f7f9b2dceaa1ff939e5c83419e6e7/babft.lua"
+  },
+  {
+    "game": 10292947079,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/f4bf264a0f4c4e61afb246559b5f1f57/raw/bab78fc5481037c3f2fb3b5ebb5fbd430c957816/duelswallhop.luau"
   }
 ]
