@@ -18,5 +18,11 @@
     "game": 10292947079,
     "keyless": true,
     "lua": "https://gist.githubusercontent.com/igorgames-htm/f4bf264a0f4c4e61afb246559b5f1f57/raw/f7030bf719a479925ae4dfd59a6a6db1104f66da/duelswallhop.luau"
+  },
+    {
+    "game": 10178802449,
+    "keyless": true,
+    "lua": "https://gist.githubusercontent.com/historjasamuraja45skidder/43b29b7c7272d8495da6d4f8aef5ba7c/raw/c69e40b8f5aabff7c9379c509e8a6b1ceeccf660/mineperclick"
   }
 ]
+
