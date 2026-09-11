@@ -6,8 +6,8 @@
   },
   {
     "game": 6035872082,
-    "keyless": true,
-    "lua": "https://gist.githubusercontent.com/igorgames-htm/29b6fcafbac6ef88be5c579db94d8f5c/raw/66f93f55ed308f1f58b6b31f9c6ae6853f6c5351/rivals.lujauu"
+    "keyless": false,
+    "lua": "https://gist.githubusercontent.com/igorgames-htm/acb584a5eb64eed39232fba0ad375467/raw/f0d9f3e858a87702defa71bf8f296fd6fd21981d/figmasigmahub.luau"
   },
   {
     "game": 210851291,
