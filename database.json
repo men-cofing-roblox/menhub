@@ -28,22 +28,7 @@
     "game": 10563114921,
     "keyless": false,
     "lua": "https://gist.githubusercontent.com/igorgames-htm/19e113d0938392183c20141e3f085ed3/raw/a661805fd16dbd765e8e6c5dae6585076fc1a35f/stealaegg.olergerg"
-  },
-  {
-    "game": 10764760426,
-    "keyless": false,
-    "lua": "https://gist.githubusercontent.com/igorgames-htm/3a380676ae6d48c341bf1ddd95457bb7/raw/4246a183e0542de9be81bcc5cefaa4c06668bbbd/ef4f34f"
-  },
-  {
-    "game": 9982465861,
-    "keyless": false,
-    "lua": "https://gist.githubusercontent.com/igorgames-htm/3a380676ae6d48c341bf1ddd95457bb7/raw/4246a183e0542de9be81bcc5cefaa4c06668bbbd/ef4f34f"
-  },
-  {
-    "game": 10767048458,
-    "keyless": false,
-    "lua": "https://gist.githubusercontent.com/igorgames-htm/3a380676ae6d48c341bf1ddd95457bb7/raw/4246a183e0542de9be81bcc5cefaa4c06668bbbd/ef4f34f"
-  },
+  }
   {
     "game": 10769319631,
     "keyless": false,
