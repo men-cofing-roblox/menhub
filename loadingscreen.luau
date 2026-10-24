@@ -56,7 +56,6 @@ return function(screengui)
 		"dont trust sleepy users or u will find out",
 		"menhub premium...",
 	}
-	table.sort(tips,function() return math.random(0,1) == 1 end)
 	tip.Text = "Tip: "..tips[math.random(1,#tips)]
 	tip.TextColor3 = Color3.fromRGB(255, 255, 255)
 	tip.TextScaled = true
