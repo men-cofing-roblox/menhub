@@ -6,7 +6,7 @@
   },
   {
     "game": 6035872082,
-    "keyless": false,
+    "keyless": true,
     "lua": "https://gist.githubusercontent.com/igorgames-htm/12f855d2f89aef930a5a1dba798ddcb1/raw/d5bac83e649d43f3c57d42c5f76930c831202347/aregaerg"
   },
   {
